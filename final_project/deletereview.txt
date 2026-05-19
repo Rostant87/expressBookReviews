@@ -1,0 +1,4 @@
+{
+  "message": "Review for ISBN 1 deleted successfully",
+  "reviews": {}
+}

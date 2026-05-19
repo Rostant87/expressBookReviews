@@ -1,0 +1,8 @@
+[
+  {
+    "isbn": "2",
+    "author": "Hans Christian Andersen",
+    "title": "Fairy tales",
+    "reviews": {}
+  }
+]
